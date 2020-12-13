@@ -23,11 +23,11 @@
 
 .main{
     height: 100%;
-    margin: 1rem;
+    margin: 2rem auto ;
 }
 
 .welcome-container{
-    border: 1px solid #633636;
+    border: 2px solid #633636;
     border-radius:5px;
     padding: 1rem;
     min-height: 10vh;
@@ -43,7 +43,7 @@
 }
 
 .link-container{
-    border: 1px solid #261515;
+    border: 2px solid #261515;
     border-radius:5px;
     padding: 0.5rem;
     box-shadow: 1px 1px 10px 1px rgba(52, 9, 1, 0.35);

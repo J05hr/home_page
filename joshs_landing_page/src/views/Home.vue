@@ -5,7 +5,6 @@
         <div class="welcome-text">Welcome, my name is Josh.</div>
         <div class="welcome-text">You've found my home-page.</div>
         <div class="info-text">
-          From here you can access all my resources.
         </div>
       </div>
       <div class="center-column has-text-centered">
@@ -15,7 +14,7 @@
           <p class="link-text">J0sh.codes</p>
         </a>
         <a class="link-container center-column" href="mailto:joshroz2@gmail.com" rel="noopener noreferrer" target="_blank">
-          <p class="para-text">Just looking to get in Touch? <br/>
+          <p class="para-text">Just looking to get in touch quickly? <br/>
             Reach out by email and I'll get back to you within the day. </p>
           <div class="desktop fa fa-2x fa-envelope"></div>
           <div class="mobile-only fa fa-lg fa-envelope"></div>
