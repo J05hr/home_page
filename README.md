@@ -1,2 +1,2 @@
 # joshs_landing_page
-A landing page for my digital presence.
+A home page where you can get to all my digital resources 
